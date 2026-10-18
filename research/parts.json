@@ -1,0 +1,1807 @@
+[
+    {
+        "drawer": "7-1",
+        "name": "30566",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "10",
+        "name": "A2C08350 ATIC39 B4",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "11",
+        "name": "A2C33648 ATIC17 E1",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "11-1",
+        "name": "0D097",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "12",
+        "name": "AMIS ATM46 C3",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "13",
+        "name": "U705 SDIC03",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "15-1",
+        "name": "30536",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "20-1",
+        "name": "30595",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "21",
+        "name": "40055",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "28",
+        "name": "30348",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "31",
+        "name": "30028",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "32",
+        "name": "30621",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "33",
+        "name": "30620",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "34",
+        "name": "30578",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "35",
+        "name": "30344",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "36",
+        "name": "07096",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "40-1",
+        "name": "30622",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "41-1",
+        "name": "30424",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "52-1",
+        "name": "7935",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "54-1",
+        "name": "E310A",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "55-1",
+        "name": "30637",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "58",
+        "name": "VALEO JCI 21680386-3-C",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "63",
+        "name": "30639",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "65-1",
+        "name": "A2C00059561 ATIC140C0",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "66-1",
+        "name": "0990-9379\/1D3",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "69-1",
+        "name": "GEC44 TYZ94077EG 3A G",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "71-1",
+        "name": "40048",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "76-1",
+        "name": "30615",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "88",
+        "name": "66413",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "88-1",
+        "name": "30520",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "95-1",
+        "name": "SC900656VW A2C020162 ATIC59 2 C1",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "108-1",
+        "name": "A2C31376-C3 ATIC35",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "109",
+        "name": "00210",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "111-1",
+        "name": "APIC-D06",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "112-1",
+        "name": "APIC-D05",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "113-1",
+        "name": "APIC-D18",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "118",
+        "name": "A2C0068400 ATIC231 B1",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "119",
+        "name": "A2C59562",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "119-1",
+        "name": "28192758",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "120",
+        "name": "A2C00693000 UM31CG",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "120-1",
+        "name": "40056",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "121",
+        "name": "A2C00650700 ATIC232 B1",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "124-1",
+        "name": "48007",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "125-1",
+        "name": "28177275",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "130-1",
+        "name": "21093-001",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "131-1",
+        "name": "30490",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "133",
+        "name": "30343",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "136-1",
+        "name": "40036",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "139-1",
+        "name": "990-9407.1D P105071D1",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "140-1",
+        "name": "MLX14607B A2C55483 ATIC135\/B3",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "141",
+        "name": "4AK19",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "141-1",
+        "name": "00211",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "144",
+        "name": "ATIC94D1 UN94DA",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "149",
+        "name": "48017",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "152",
+        "name": "MGH80ASC900771AAE",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "156",
+        "name": "30591",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "157",
+        "name": "30572",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "158",
+        "name": "C5664",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "159",
+        "name": "SE742 5L13",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "160",
+        "name": "JCI21644868-8",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "188",
+        "name": "40076",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "190",
+        "name": "SAGEM S2000",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "194",
+        "name": "40042",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "196",
+        "name": "7936",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "197",
+        "name": "30046",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "199",
+        "name": "40049",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "204",
+        "name": "6A930",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "228",
+        "name": "E322A",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "230",
+        "name": "E351",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "231",
+        "name": "30358",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "232",
+        "name": "SC900950AE",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "235",
+        "name": "7030-2A",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "239",
+        "name": "30522",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "242",
+        "name": "40038",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "250",
+        "name": "SC74822 AVW",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "253",
+        "name": "B59233 1037350115",
+        "cat": "ic-asic"
+    },
+    {
+        "drawer": "17-1",
+        "name": "ATA 6560",
+        "cat": "ic-can"
+    },
+    {
+        "drawer": "63-1",
+        "name": "TJA1043",
+        "cat": "ic-can"
+    },
+    {
+        "drawer": "80",
+        "name": "TJA1055-T\/C",
+        "cat": "ic-can"
+    },
+    {
+        "drawer": "81",
+        "name": "TJA1042",
+        "cat": "ic-can"
+    },
+    {
+        "drawer": "82",
+        "name": "TJA1040",
+        "cat": "ic-can"
+    },
+    {
+        "drawer": "83",
+        "name": "AMIS41682NGA",
+        "cat": "ic-can"
+    },
+    {
+        "drawer": "87-1",
+        "name": "PCA82C250Y",
+        "cat": "ic-can"
+    },
+    {
+        "drawer": "101-1",
+        "name": "VP251 SN65HVD251",
+        "cat": "ic-can"
+    },
+    {
+        "drawer": "102-1",
+        "name": "VP234 SN65HVD234",
+        "cat": "ic-can"
+    },
+    {
+        "drawer": "103-1",
+        "name": "VP230 SN65HVD230",
+        "cat": "ic-can"
+    },
+    {
+        "drawer": "104-1",
+        "name": "VP232 SN65HVD232",
+        "cat": "ic-can"
+    },
+    {
+        "drawer": "105-1",
+        "name": "VP233 SN65HVD233",
+        "cat": "ic-can"
+    },
+    {
+        "drawer": "115",
+        "name": "UJA1078A33W",
+        "cat": "ic-can"
+    },
+    {
+        "drawer": "116",
+        "name": "UJA11325V",
+        "cat": "ic-can"
+    },
+    {
+        "drawer": "117",
+        "name": "MC33972ATEW",
+        "cat": "ic-can"
+    },
+    {
+        "drawer": "127",
+        "name": "TLE6250GV33",
+        "cat": "ic-can"
+    },
+    {
+        "drawer": "185",
+        "name": "MC33662LEFRP2",
+        "cat": "ic-can"
+    },
+    {
+        "drawer": "203",
+        "name": "TJA1051",
+        "cat": "ic-can"
+    },
+    {
+        "drawer": "248-1",
+        "name": "MCZ33290",
+        "cat": "ic-can"
+    },
+    {
+        "drawer": "249",
+        "name": "6LB176",
+        "cat": "ic-can"
+    },
+    {
+        "drawer": "3",
+        "name": "TLE7209-2R",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "3-1",
+        "name": "TPIC84000 T",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "4",
+        "name": "L9823",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "5",
+        "name": "TLE8104E-S1",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "6",
+        "name": "L9930 SMD",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "15",
+        "name": "VND7NV04 TO252",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "16",
+        "name": "VND10 N06",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "16-1",
+        "name": "L9177A",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "18",
+        "name": "BTS840S2",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "19",
+        "name": "VNQ660SP",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "21-1",
+        "name": "TLE8102L",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "22",
+        "name": "L9741",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "23",
+        "name": "L9708",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "25-1",
+        "name": "VB029SP",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "29",
+        "name": "L9935",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "34-1",
+        "name": "TLE7240SL-A",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "39-1",
+        "name": "L9825",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "40",
+        "name": "MR2835S",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "53-1",
+        "name": "L9906",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "56",
+        "name": "TLE7244SL-A",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "57-1",
+        "name": "BTS5215L",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "59-1",
+        "name": "BTS5241 G",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "60",
+        "name": "BTS5241 L",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "60-1",
+        "name": "BTS5241 2L",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "62",
+        "name": "TLE8209-2E",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "64",
+        "name": "UDQ2916 EB",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "66",
+        "name": "VN5E025AJ",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "67",
+        "name": "VND5E050AJ",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "67-1",
+        "name": "TPIC8101DW",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "68",
+        "name": "VND5E160AJ",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "69",
+        "name": "VND5E025AK",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "70",
+        "name": "VNQ5E050AK",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "70-1",
+        "name": "TDA16810G",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "71",
+        "name": "NCV8402A-3 PIN",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "74-1",
+        "name": "TLE9201SG",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "79-1",
+        "name": "VB025 MSP",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "80-1",
+        "name": "TLE6288R",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "81-1",
+        "name": "UDN2916LB",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "85",
+        "name": "L9958XP",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "86",
+        "name": "L9950XP",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "86-1",
+        "name": "BTS118D",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "89",
+        "name": "BTS6143D",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "89-1",
+        "name": "A3979SLPT",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "90",
+        "name": "L9826",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "90-1",
+        "name": "VN5E160S",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "91",
+        "name": "L9848",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "101",
+        "name": "VND14NV04 TO252",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "110-1",
+        "name": "M1924FP",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "111",
+        "name": "MCZ33810EK",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "112",
+        "name": "MC33926",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "118-1",
+        "name": "MAR9746",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "121-1",
+        "name": "TLE8209-1R",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "122-1",
+        "name": "TLE8209-2SA",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "123-1",
+        "name": "TLE8209-1E",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "126-1",
+        "name": "HIP9011AB",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "134",
+        "name": "TLE6240GP",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "140",
+        "name": "M5269L 648004",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "145",
+        "name": "TLE6244 X",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "146",
+        "name": "VND830SP",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "153",
+        "name": "BTS5572E SMD",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "154",
+        "name": "BTS 5030-EJA",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "155",
+        "name": "L9651",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "179",
+        "name": "TLE6208 - 6G",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "180",
+        "name": "TLE6208 - 3G",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "183",
+        "name": "VN920D-B5",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "184",
+        "name": "VN920SP",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "189",
+        "name": "VN380SP",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "195",
+        "name": "TLE8444SL",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "201",
+        "name": "MC33291DW",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "202",
+        "name": "NCV8408G",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "205",
+        "name": "BTS5016-SAD SMD",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "207",
+        "name": "VN5016",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "209",
+        "name": "UPC1251",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "215",
+        "name": "NCV7754",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "217",
+        "name": "NCV8402AD-8PIN",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "220",
+        "name": "BTS4140N",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "227",
+        "name": "L9613",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "233",
+        "name": "L9929",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "241",
+        "name": "TLS208D1EJV(208D1V)",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "244",
+        "name": "L9997",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "246",
+        "name": "TC1-110-U",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "247",
+        "name": "TLE6232 GP",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "247-1",
+        "name": "BD99011",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "251",
+        "name": "BTS5242-L",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "252",
+        "name": "BTS5242-2L",
+        "cat": "ic-driver"
+    },
+    {
+        "drawer": "17",
+        "name": "ULN2003A SMD اصلی",
+        "cat": "ic-logic"
+    },
+    {
+        "drawer": "20",
+        "name": "74HC4852D SMD",
+        "cat": "ic-logic"
+    },
+    {
+        "drawer": "27",
+        "name": "74HC08D SMD",
+        "cat": "ic-logic"
+    },
+    {
+        "drawer": "51-1",
+        "name": "74HC573D",
+        "cat": "ic-logic"
+    },
+    {
+        "drawer": "55",
+        "name": "LM2903",
+        "cat": "ic-logic"
+    },
+    {
+        "drawer": "61-1",
+        "name": "LM324DG",
+        "cat": "ic-logic"
+    },
+    {
+        "drawer": "72",
+        "name": "74HC151D",
+        "cat": "ic-logic"
+    },
+    {
+        "drawer": "73",
+        "name": "ULQ2003A-SMD",
+        "cat": "ic-logic"
+    },
+    {
+        "drawer": "79",
+        "name": "HEF4051BT",
+        "cat": "ic-logic"
+    },
+    {
+        "drawer": "100-1",
+        "name": "HEF4051 BT",
+        "cat": "ic-logic"
+    },
+    {
+        "drawer": "102",
+        "name": "LM2901DR",
+        "cat": "ic-logic"
+    },
+    {
+        "drawer": "103",
+        "name": "LM2902",
+        "cat": "ic-logic"
+    },
+    {
+        "drawer": "104",
+        "name": "LM2904",
+        "cat": "ic-logic"
+    },
+    {
+        "drawer": "107",
+        "name": "74HCT157D SMD",
+        "cat": "ic-logic"
+    },
+    {
+        "drawer": "107-1",
+        "name": "74HC4851A",
+        "cat": "ic-logic"
+    },
+    {
+        "drawer": "124",
+        "name": "MC1413BDG",
+        "cat": "ic-logic"
+    },
+    {
+        "drawer": "135",
+        "name": "TDA7377",
+        "cat": "ic-logic"
+    },
+    {
+        "drawer": "136",
+        "name": "TDA7388",
+        "cat": "ic-logic"
+    },
+    {
+        "drawer": "137",
+        "name": "YD1028",
+        "cat": "ic-logic"
+    },
+    {
+        "drawer": "143",
+        "name": "KA7500C",
+        "cat": "ic-logic"
+    },
+    {
+        "drawer": "148",
+        "name": "74HC32D",
+        "cat": "ic-logic"
+    },
+    {
+        "drawer": "150",
+        "name": "74HC08AG",
+        "cat": "ic-logic"
+    },
+    {
+        "drawer": "161",
+        "name": "74HC574D SMD",
+        "cat": "ic-logic"
+    },
+    {
+        "drawer": "162",
+        "name": "74HC240D SMD",
+        "cat": "ic-logic"
+    },
+    {
+        "drawer": "208",
+        "name": "TDA5220",
+        "cat": "ic-logic"
+    },
+    {
+        "drawer": "243",
+        "name": "74HCT574D",
+        "cat": "ic-logic"
+    },
+    {
+        "drawer": "18-1",
+        "name": "S9S08SL8",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "42",
+        "name": "SAK-C167 CR-LM-HA",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "43",
+        "name": "SAK-C167 CS-LM",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "44",
+        "name": "ST10F273B CAA QFP BIG",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "45",
+        "name": "ST10F273M ABG3 TQFP SMAll",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "45-1",
+        "name": "ST10F273M ABG3 TQFP BIG",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "46",
+        "name": "ST10F275 CAA QFP BIG",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "47",
+        "name": "ST10F275 CEG QFP BIG",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "47-1",
+        "name": "ST10F275 CEG QFP SMALL",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "48",
+        "name": "ST10F275 CFG QFP BIG",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "48-1",
+        "name": "ST10F275 CFG QFP SMALL",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "68-1",
+        "name": "SPC563M64L5",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "76",
+        "name": "D76F0111GJ(A1)",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "77",
+        "name": "MC9S12XEG128MAL",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "77-1",
+        "name": "SAKCIC751",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "78",
+        "name": "S9S12G128MLL",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "82-1",
+        "name": "R5F2123AJFP",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "84-1",
+        "name": "ATMEGA 16 A",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "91-1",
+        "name": "SAK-TC1728N192",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "114-1",
+        "name": "MPC565MZP56",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "129-1",
+        "name": "A2C00804500 TMS470 980 G4",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "138",
+        "name": "SAKTC1724N192 اصلی",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "142",
+        "name": "D78F0849(A)",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "181",
+        "name": "R5F2123AJFP",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "211",
+        "name": "R5F10DPJJ",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "213",
+        "name": "R5F21236 DFP",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "214",
+        "name": "PIC16F1937 F80HLAB",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "236",
+        "name": "S912XHY256CLM",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "254",
+        "name": "ATMEGA 48 PA AU",
+        "cat": "ic-mcu"
+    },
+    {
+        "drawer": "14",
+        "name": "AM29F400BB-70SD-SOP44",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "25",
+        "name": "AM29F400BB- 70ED TSOP48",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "26",
+        "name": "IS65C 256AL-25",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "37",
+        "name": "AM29F010B",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "38",
+        "name": "AM29F200BB-SOP 44",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "39",
+        "name": "AM29F200BB-TSOP 48",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "51",
+        "name": "95080 SOP",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "52",
+        "name": "95160 SOP",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "53",
+        "name": "95320 SOP",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "54",
+        "name": "24C02",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "64-1",
+        "name": "93S46",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "75-1",
+        "name": "AM29F800BB-70SE",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "105",
+        "name": "93C66 TSSOP",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "106",
+        "name": "M95320 TSSOP",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "126",
+        "name": "CY62256NLL",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "164",
+        "name": "24C04 SOP8",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "165",
+        "name": "24LC04BI",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "166",
+        "name": "25lc040",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "167",
+        "name": "93C46 SOP",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "168",
+        "name": "93C46 TSSOP(9749)",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "169",
+        "name": "95020 SOP",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "170",
+        "name": "95020 TSSOP",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "171",
+        "name": "24C16 SOP8",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "172",
+        "name": "24C16 TSSOP",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "173",
+        "name": "93S56 SOP",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "174",
+        "name": "93C56 TSSOP",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "175",
+        "name": "93C66 SOP",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "191",
+        "name": "AM29F400BB-90EC",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "192",
+        "name": "AM29F800BB-48PIN",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "193",
+        "name": "AM29F800BB-44PIN",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "198",
+        "name": "ST M29F400BB TSSOP48",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "222",
+        "name": "M27C1001",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "225",
+        "name": "95640 TSSOP",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "226",
+        "name": "95640 SOP",
+        "cat": "ic-memory"
+    },
+    {
+        "drawer": "24-1",
+        "name": "A4405T TSSOP",
+        "cat": "ic-misc"
+    },
+    {
+        "drawer": "65",
+        "name": "305 5VL",
+        "cat": "ic-misc"
+    },
+    {
+        "drawer": "85-1",
+        "name": "MH7203FA",
+        "cat": "ic-misc"
+    },
+    {
+        "drawer": "109-1",
+        "name": "کلید کولر 206",
+        "cat": "ic-misc"
+    },
+    {
+        "drawer": "128-1",
+        "name": "TLE5216G",
+        "cat": "ic-misc"
+    },
+    {
+        "drawer": "147",
+        "name": "2N604L",
+        "cat": "ic-misc"
+    },
+    {
+        "drawer": "176",
+        "name": "مدار جایگزین VNQ660",
+        "cat": "ic-misc"
+    },
+    {
+        "drawer": "182",
+        "name": "100UF 35V 6.3*7.7",
+        "cat": "ic-misc"
+    },
+    {
+        "drawer": "216",
+        "name": "l9788",
+        "cat": "ic-misc"
+    },
+    {
+        "drawer": "245",
+        "name": "100UF 50V 10*08",
+        "cat": "ic-misc"
+    },
+    {
+        "drawer": "248",
+        "name": "L9779",
+        "cat": "ic-misc"
+    },
+    {
+        "drawer": "4-1",
+        "name": "FDD8444L ORGINAL",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "7",
+        "name": "ISLV2040S",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "8",
+        "name": "ISLV2540S",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "9",
+        "name": "ISLV5036S",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "22-1",
+        "name": "74A50G",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "24",
+        "name": "9V3040S TO-263 (D2PACK)",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "28-1",
+        "name": "TSPD11",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "30",
+        "name": "AULR024N",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "41",
+        "name": "SM8A27",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "57",
+        "name": "BCP53",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "59",
+        "name": "BSP250",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "61",
+        "name": "VDR 14D220K",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "62-1",
+        "name": "4N0609",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "72-1",
+        "name": "2N06L23",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "87",
+        "name": "BUK9237-55A",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "106-1",
+        "name": "BUK9675-100A ORIGINAL",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "108",
+        "name": "IRLR2905",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "110",
+        "name": "DALE WSR-2 0.025R 1%",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "113",
+        "name": "4N06L11",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "114",
+        "name": "4N06L12",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "115-1",
+        "name": "M7(1N4007) DIODE SMD",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "116-1",
+        "name": "2N06L65",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "117-1",
+        "name": "BUK762R9-40E",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "122",
+        "name": "18N40ABG DPACK",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "123",
+        "name": "BUK7635-55A",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "125",
+        "name": "J122(MJD122G)",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "127-1",
+        "name": "BAV 199",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "128",
+        "name": "BAV99 SMD CODE A7",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "129",
+        "name": "BC847- SMD 1 FW 03",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "130",
+        "name": "BC857-SMD 3F",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "132",
+        "name": "2N04H4 80N04S2-H4",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "137-1",
+        "name": "SM5A27",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "138-1",
+        "name": "2SK3377",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "139",
+        "name": "GB10NB37LZ",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "151",
+        "name": "MURS220T3G U2D DIODE",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "163",
+        "name": "NGD8201 AG",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "177",
+        "name": "GB10NB40LZ",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "186",
+        "name": "BUK9640-100A",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "206",
+        "name": "FDD 8444L ORGINAL",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "210",
+        "name": "BCP56",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "218",
+        "name": "NVD1NV04DP-8 PIN",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "219",
+        "name": "NVD1NV04P-3PIN",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "221",
+        "name": "2SB1516",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "223",
+        "name": "4N04L08",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "224",
+        "name": "4N0408",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "240",
+        "name": "ISL9V3040D TO-252(DPACK)",
+        "cat": "ic-power"
+    },
+    {
+        "drawer": "1-1",
+        "name": "TLE4251G",
+        "cat": "ic-reg"
+    },
+    {
+        "drawer": "2",
+        "name": "TLE4471G",
+        "cat": "ic-reg"
+    },
+    {
+        "drawer": "8-1",
+        "name": "TLE4299GM",
+        "cat": "ic-reg"
+    },
+    {
+        "drawer": "12-1",
+        "name": "TLE4251D",
+        "cat": "ic-reg"
+    },
+    {
+        "drawer": "23-1",
+        "name": "TLE4278G",
+        "cat": "ic-reg"
+    },
+    {
+        "drawer": "37-1",
+        "name": "HT7550-2",
+        "cat": "ic-reg"
+    },
+    {
+        "drawer": "58-1",
+        "name": "TLE4271-2G",
+        "cat": "ic-reg"
+    },
+    {
+        "drawer": "74",
+        "name": "TLE4275D TO-252",
+        "cat": "ic-reg"
+    },
+    {
+        "drawer": "75",
+        "name": "TLE4275G TO-263",
+        "cat": "ic-reg"
+    },
+    {
+        "drawer": "78-1",
+        "name": "MC33063AD",
+        "cat": "ic-reg"
+    },
+    {
+        "drawer": "83-1",
+        "name": "L05173",
+        "cat": "ic-reg"
+    },
+    {
+        "drawer": "84",
+        "name": "TLE4269GM",
+        "cat": "ic-reg"
+    },
+    {
+        "drawer": "178",
+        "name": "TLE4270G",
+        "cat": "ic-reg"
+    },
+    {
+        "drawer": "187",
+        "name": "L05172",
+        "cat": "ic-reg"
+    },
+    {
+        "drawer": "200",
+        "name": "TPS43335Q1",
+        "cat": "ic-reg"
+    },
+    {
+        "drawer": "212",
+        "name": "4270-2G-SMD",
+        "cat": "ic-reg"
+    },
+    {
+        "drawer": "229",
+        "name": "LM2576HVS ADJ ORIGINAL",
+        "cat": "ic-reg"
+    },
+    {
+        "drawer": "234",
+        "name": "L4995K",
+        "cat": "ic-reg"
+    },
+    {
+        "drawer": "237",
+        "name": "L4995AJ",
+        "cat": "ic-reg"
+    },
+    {
+        "drawer": "238",
+        "name": "L4995RJ",
+        "cat": "ic-reg"
+    },
+    {
+        "drawer": "49",
+        "name": "V23076-A1001-7PIN",
+        "cat": "ic-relay"
+    },
+    {
+        "drawer": "50",
+        "name": "رله خودرویی 51ND12-W1 ژاپنی",
+        "cat": "ic-relay"
+    },
+    {
+        "drawer": "50-1",
+        "name": "رله خودرویی 51ND12-W1 چینی",
+        "cat": "ic-relay"
+    },
+    {
+        "drawer": "92",
+        "name": "رله خودرویی 23086C1001A403",
+        "cat": "ic-relay"
+    },
+    {
+        "drawer": "93",
+        "name": "رله خودرویی 23072C1061A308-TRM",
+        "cat": "ic-relay"
+    },
+    {
+        "drawer": "94",
+        "name": "رله خودرویی V23084 C2001A303",
+        "cat": "ic-relay"
+    },
+    {
+        "drawer": "95",
+        "name": "رله خودرویی G8N-1H",
+        "cat": "ic-relay"
+    },
+    {
+        "drawer": "96",
+        "name": "رله خودرویی G8NW-2H",
+        "cat": "ic-relay"
+    },
+    {
+        "drawer": "96-1",
+        "name": "رله خودرویی P3CN010W1",
+        "cat": "ic-relay"
+    },
+    {
+        "drawer": "97",
+        "name": "رله خودرویی512ND10-W1",
+        "cat": "ic-relay"
+    },
+    {
+        "drawer": "98",
+        "name": "رله خودروییG8ND-2S",
+        "cat": "ic-relay"
+    },
+    {
+        "drawer": "99",
+        "name": "رله خودروییEX2-2U1S",
+        "cat": "ic-relay"
+    },
+    {
+        "drawer": "100",
+        "name": "رله خودروییEX1-2U1S",
+        "cat": "ic-relay"
+    },
+    {
+        "drawer": "131",
+        "name": "رله خودرویی v23086 c1001 A403",
+        "cat": "ic-relay"
+    }
+]
